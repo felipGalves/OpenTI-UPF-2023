@@ -1,0 +1,72 @@
+[
+    {
+        "Name": "A Queda da Casa de Usher",
+        "Description": "A mansão gótica está em ruínas e aos poucos afunda no pântano sob ela. Seus moradores estão doentes e deslizando para o mundo da loucura. E se você ouvir com atenção, poderá escutar o som da hera subindo pelas paredes, o vento sussurrando seu nome e as árvores estalando quando esticam seus galhos para recebê-lo.",
+        "Pages": 72,
+        "Category": "Terror"
+    },
+    {
+        "Name": "O Corvo",
+        "Description": "O poema trata da chegada de um corvo à casa de um homem (provavelmente um estudante) e sua perturbadora repetição das palavras “nunca mais”, independente da pergunta que fosse feita a ele, o que parece levar o homem a um estado de quase loucura.",
+        "Pages": 64,
+        "Category": "Terror"
+    },
+    {
+        "Name": "O Gato Preto",
+        "Description": "Um dos contos mais apreciados da literatura universal, especialmente traduzido pelo escritor Bernardo Carvalho. Poe conta a história de um homem que, movido pelo abuso de álcool e transtornado pelo amor incondicional que um bicho pode dedicar a seu dono, acaba por enforcar seu próprio gato de estimação.",
+        "Pages": 24,
+        "Category": "Terror"
+    },
+    {
+        "Name": "O Coração Delator",
+        "Description": "Um dos contos mais apreciados da literatura universal, especialmente traduzido pelo escritor Bernardo Carvalho. Poe conta a história de um homem que, movido pelo abuso de álcool e transtornado pelo amor incondicional que um bicho pode dedicar a seu dono, acaba por enforcar seu próprio gato de estimação.",
+        "Pages": 72,
+        "Category": "Terror"
+    },
+    {
+        "Name": "O Barril de Amontillado",
+        "Description": "O Barril de Amontillado é um conto publicado pela primeira vez em Novembro de 1846 na Godey's Lady's Book. A história decorre numa cidade italiana, provavelmente no século XVIII, e conta a vingança do narrador sobre o amigo Fortunato que se teria atrevido a insultá-lo.",
+        "Pages": 20,
+        "Category": "Terror"
+    },
+    {
+        "Name": "O Poço e o Pêndulo",
+        "Description": "Conta a história de um homem julgado e condenado por inquisidores que, após sentenciado, é atirado em um calabouço e submetido a intensa tortura; tanto física quanto emocional e psicológica. O narrador é colocado em uma sala escura com paredes de metal e uma armadilha (o Poço) que faz em seu centro.",
+        "Pages": 72,
+        "Category": "Terror"
+    },
+    {
+        "Name": "Os Assassinatos da Rua Morgue",
+        "Description": "Em “Os assassinatos na rua Morgue”, mãe e filha são assassinadas em um apartamento fechado, sem qualquer sinal de arrombamento. Depois de ouvir gritos estridentes, vizinhos entram e saem da cena do crime, cada um com uma especulação diferente sobre quem teria sido o assassino.",
+        "Pages": 160,
+        "Category": "Terror"
+    },
+
+
+
+
+    {
+        "Name": "Astrofísica Para Apressados",
+        "Description": "Quem nunca olhou para o céu numa noite estrelada e se perguntou: que lugar ocupo no espaço? O que tudo isso significa? Como funciona? Em Astrofísica para apressados, o aclamado astrofísico e pesquisador Neil deGrasse Tyson responde a essas e outras perguntas que certamente todos já fizeram sobre o universo.",
+        "Pages": 192,
+        "Category": "Astrofisica"
+    },
+    {
+        "Name": "Origens",
+        "Description": "Iniciando com o Big Bang, passando pelo início da vida na terra e a busca da vida extraterrestre, os autores avançam até a primeira imagem do nascimento de uma galáxia e seguem até a exploração de Marte pela sonda Spirit, sem deixar de fora eventos como a descoberta de água em uma das luas de Júpiter.",
+        "Pages": 384,
+        "Category": "Astrofisica"
+    },
+    {
+        "Name": "Morte no buraco negro",
+        "Description": "Reunindo mais de quarenta dos seus ensaios favoritos, Buraco Negro explora uma miríade de tópicos da astronomia. Desde a vida astral nas fronteiras da astrobiologia até como seria estar dentro de um buraco negro – literalmente!",
+        "Pages": 432,
+        "Category": "Astrofisica"
+    },
+    {
+        "Name": "Crônicas espaciais: Rumo à última fronteira",
+        "Description": "Por que o homem se maravilha com o espaço? E por que devemos explorá-lo? Conseguimos chegar tão longe – aonde seremos capazes de ir no futuro? Quais são os desafios que impedem entusiastas de realizar o sonho de explorar os confins do universo?",
+        "Pages": 384,
+        "Category": "Astrofisica"
+    }
+]
