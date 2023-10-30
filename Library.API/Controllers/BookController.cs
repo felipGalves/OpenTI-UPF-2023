@@ -44,13 +44,13 @@ public class BookController : ControllerBase
     
 
     [HttpGet("{id}")]
-    public async Task<ActionResult<dynamic>> GetSingleAuthor(Guid id) 
+    public async Task<ActionResult<dynamic>> GetSingleBook(Guid id) 
     {
         return Ok(_mapper.Map<GetSingleBookViewModel>(await _book.GetSingleAsync(id, inc => inc.Author)));
     }
 
     [HttpDelete("{id}")]
-    public async Task<ActionResult<dynamic>> RemoveAuthor(Guid id) 
+    public async Task<ActionResult<dynamic>> RemoveBook(Guid id) 
     {
         await _book.RemoveByIdAsync(id);
 
